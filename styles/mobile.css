@@ -17,7 +17,22 @@ footer {
 #logo {
   text-align: center;
 }
-
+#logo a{
+  text-decoration: none;
+  color: #f1f1f1;
+  font-size: 15px;
+}
+#logo a:hover{
+  text-decoration: underline;
+}
+#logo h1{
+  text-decoration: none;
+  color: #f1f1f1;
+  font-size: 15px;
+}
+#logo h1:hover{
+  text-decoration: underline;
+}
 header {
   background-color: #263248;
 }
